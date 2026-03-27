@@ -1,0 +1,10 @@
+Algoritmo Contar
+	Definir num Como Entero
+	
+	num = 1
+	
+	Mientras num <= 5 Hacer
+		Escribir num
+		num = num + 1
+	FinMientras
+FinAlgoritmo
